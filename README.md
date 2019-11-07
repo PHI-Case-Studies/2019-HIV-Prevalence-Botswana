@@ -1,4 +1,4 @@
-# 2017-HIV-Prevalence-Case-Study (Under Development)
+# 2017-HIV-Prevalence-Case-Study
 
 *This repository was created for use by CDC programs to collaborate on public health surveillance related projects in support of the CDC Surveillance Strategy. Github is not hosted by the CDC, but is used by CDC and its partners to share information and collaborate on software.*
 
