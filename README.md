@@ -12,9 +12,9 @@ You will build a **digital case study** with [Jupyter Notebook](https://jupyter.
 ## Use a custom Docker-based Jupyter Notebook Server (during workshop)
 1. Obtain a GitHub account.
 2. Note down your GitHub log in credentials (user name and password).
-3. The workshop facilitators will guide you during the log in process to this custom Jupyter Notebook server. (You may try to set this up on your local machine using the code from this repository: https://github.com/PHI-Toolkit/jupyterhub-deploy-docker-localhost.git. Note you may need to set up Docker and its associated tools to make this happen, and it may require you to have a local machine with the right hardware and software requirements.)
-4. Once you have set up and launched the Docker-based Jupyter Notebook server, and have logged in, launch a terminal from within the Notebook Server and clone this repository using `git clone https://github.com/PHI-Case-Studies/2019-HIV-Prevalence-Botswana.git`.
-5. You can then launch the case study notebooks with minimal configuration (may need to `pip install camelot-py` and other required packages using a Jupyter Notebook terminal window.
+3. The workshop facilitators will guide you during the log in process to this custom Jupyter Notebook server. (You may try to set this up on your local machine using the code from this repository: https://github.com/PHI-Toolkit/jupyterhub-deploy-docker-localhost.git. Note you may need to set up Docker and its associated tools to make this happen, and it may require you to have a local machine with the right hardware and software requirements. Local machine set up will not use GitHub authentication by default.)
+4. Once you have set up and launched the Docker-based Jupyter Notebook server, and have logged in using your GitHub credentials, launch a terminal from within the Notebook Server, type `cd notebooks` and clone this repository using `git clone https://github.com/PHI-Case-Studies/2019-HIV-Prevalence-Botswana.git`.
+5. You can then launch the case study notebooks with minimal configuration (may need to `pip install camelot-py` and other required packages using a Jupyter Notebook terminal window).
 
 ## Use Anaconda Jupyter Notebook - Steps
 1. Download and install Anaconda [here](https://www.anaconda.com/distribution/)
