@@ -1,0 +1,18 @@
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - notebook
+  - pandas
+  - geopandas
+  - matplotlib
+  - seaborn
+  - scipy
+  - scikit-learn
+  - ipykernel
+  - camelot-py
+  - pip
+  - pip:
+      - xlrd
+      - openpyxl
