@@ -2,6 +2,7 @@
 
 Case studies have been used in many disciplines (health sciences, social sciences, engineering and law) to create opportunities to provide learners with immersive environments in which to apply these problem solving skills. Digital case studies provide the additional benefits of interactivity and reproducibility to data science problems, but educators are faced with challenges understanding the ecosystem of tools that can be used to develop them. Over the course of the next few hours, you and your team will develop a simple digital case study based on publically-available data from Botswana. The focus of this case study will center on HIV prevalence in Botswana using three building blocks: Person, Place and Time.
 
+
 ## Interact with the Case Study
 [![Binder](https://beta.mybinder.org/badge.svg)](https://beta.mybinder.org/v2/gh/PHI-Case-Studies/2019-HIV-Prevalence-Botswana/master) 
 
